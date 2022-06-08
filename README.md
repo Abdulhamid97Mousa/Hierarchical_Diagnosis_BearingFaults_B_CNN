@@ -1,1 +1,1 @@
-# Hierarchical_Diagnosis_BearingFaults_B_CNN
+# Hierarchical_Diagnosis_BearingFaults_Branched_CNN
