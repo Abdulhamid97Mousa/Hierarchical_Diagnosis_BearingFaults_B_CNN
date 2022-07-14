@@ -1,6 +1,6 @@
-# Hierarchical_Diagnosis_BearingFaults_Branched_CNN
+# Hierarchical diagnosis of bearing faults using branch convolutional neural network considering noise interference and variable working conditions
 
-This code is an implementations of the following two publications
+This Python code is an implementations of the following two publications
 
 1.  B-CNN which's a type of CNN models, the algorithm is found in this publication: B-CNN: Branch Convolutional Neural Network for Hierarchical Classification
 - Authors: Xinqi Zhu, Michael Bain
