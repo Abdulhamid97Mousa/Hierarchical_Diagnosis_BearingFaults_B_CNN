@@ -9,3 +9,8 @@ This Python code is an implementations of the following two publications
 2.  Hierarchical diagnosis of bearing faults using branch convolutional neural network considering noise interference and variable working conditions 
 - Authors: Kaige Su, Jianhua Liu, Hui Xiong 
 - Link: https://www.sciencedirect.com/science/article/abs/pii/S0950705121006481
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/Abdulhamid97Mousa/Hierarchical_Diagnosis_BearingFaults_B_CNN.svg)](https://starchart.cc/Abdulhamid97Mousa/Hierarchical_Diagnosis_BearingFaults_B_CNN)
